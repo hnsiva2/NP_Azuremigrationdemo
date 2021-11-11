@@ -24,7 +24,7 @@ class DataSource
 
     const USERNAME = 'sivakrushna@testazuremigrationmysql';
 
-    const PASSWORD = 'NuvePro1919$';
+    const PASSWORD = 'Nuvepro1919$';
 
     const DATABASENAME = 'user-registration';
 
