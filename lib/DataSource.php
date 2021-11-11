@@ -22,7 +22,7 @@ class DataSource
     // for better encapsulation
     const HOST = 'testnpmysqlmigration.mysql.database.azure.com';
 
-    const USERNAME = 'sivakrushna';
+    const USERNAME = 'sivakrushna@testazuremigrationmysql';
 
     const PASSWORD = 'NuvePro1919$';
 
