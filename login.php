@@ -25,7 +25,7 @@ if (! empty($_POST["login-btn"])) {
 			<div class="signup-align">
 				<form name="login" action="" method="post"
 					onsubmit="return loginValidation()">
-					<div class="signup-heading">Login</div>
+					<div class="signup-heading">Login sdjsdlfs</div>
 				<?php if(!empty($loginResult)){?>
 				<div class="error-msg"><?php echo $loginResult;?></div>
 				<?php }?>
